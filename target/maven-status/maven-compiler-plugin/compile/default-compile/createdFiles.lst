@@ -1,0 +1,3 @@
+br/com/professorisidro/validacpf/WebCpfApplication.class
+br/com/professorisidro/validacpf/controller/ValidadorController.class
+br/com/professorisidro/validacpf/service/Validador.class
